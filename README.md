@@ -16,4 +16,5 @@ If you want to change this API, comment on this repo.
 
 Three params: auth code, location,request.
 Example: "my-auth-code", "@user/project", "comments".
-Example with workspace: "my-auth-code", "@user/project","code"
+Example with workspace: "my-auth-code", "@user/project","code".
+If you want to change this API, comment on this repo.
